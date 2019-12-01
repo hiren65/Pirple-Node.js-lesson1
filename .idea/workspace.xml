@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674c2704-8363-4e54-a848-86083804a243" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -10,6 +14,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +62,7 @@
       <updated>1575172949591</updated>
       <workItem from="1575172959395" duration="187000" />
       <workItem from="1575173184617" duration="203000" />
-      <workItem from="1575173485099" duration="9500000" />
+      <workItem from="1575173485099" duration="13924000" />
     </task>
     <servers />
   </component>
