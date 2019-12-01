@@ -18,12 +18,14 @@ var server = http.createServer(function (req,res) {
     //below first perameter is Regex equation to remove '/'
     var trimmedOath = path.replace(/^\/+|\/+$/g,'');
 
+    // Get query string as an object.
+    var queryStringObject = parsedUrl.query;
     //Get the HTTP Method
     var method = req.method.toLowerCase();
     //Send the response
     res.end('Hello World \n');
     // Log the request path
-    console.log('Request received on path: '+trimmedOath + 'with method: '+method);
+    console.log('Request received on path: '+trimmedOath + 'with method: '+method+' With this query string parameters ',queryStringObject);
 
 
 });
